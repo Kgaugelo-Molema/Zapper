@@ -1,0 +1,22 @@
+{
+    "reference": "123-ABC/DEF",
+    "currencyIsoCode": "ZAR",
+    "amount": 1000,
+    "tipPercentage": 10,
+    "statusId": 2,
+    "transactionUtcDate": "2019-01-01T00:00:00.000Z",
+    "merchant": {
+        "name": "Joe's Soap Shop"
+    },
+    "customer": {
+        "firstName": "John",
+        "lastName": "Smith",
+        "phoneNumber": "27773334567",
+        "email": "john.smith@email.com"
+    },
+    "card": {
+        "cardMask": "400000xxx0002",
+        "expiryMonth": 12,
+        "expiryYear": 2025
+    }
+}
